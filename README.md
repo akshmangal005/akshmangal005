@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Akash Mangal</h1>
 <h3 align="center">A Passionate Android developer from India</h3>
 
- ![@akshmangal005's Holopin board](https://holopin.me/akshmangal005)]
+ ![@akshmangal005's Holopin board](https://holopin.me/akshmangal005)
  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
